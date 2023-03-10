@@ -1,0 +1,43 @@
+body {
+    background-color:hsl(212, 45%, 89%);
+}
+
+h1 {
+    font-family: 'Outfit', sans-serif;
+    font-weight: 700;
+}
+
+p {
+    font-family: 'Outfit', sans-serif;
+    font-weight: 400;
+}
+.qrCode {
+    border-radius: 15px;
+    max-height:100%;
+    max-width:100%;
+ }
+
+
+.card {
+    /* border: solid yellow; */
+    text-align: center;
+    width: 30%;
+    margin:auto;
+    padding: 1%;
+    background-color: white;
+    border-radius: 15px;
+  }
+
+.container{
+    /* border: solid red; */
+    padding: 0 3%;
+}
+.container h1  {
+    font-size: 2.1vw;
+    /* color:pink; */
+}
+
+.container p {
+    font-size: 1.5vw ;
+    color:hsl(220, 15%, 55%);
+}
