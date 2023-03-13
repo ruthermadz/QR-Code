@@ -5,14 +5,16 @@ body {
 h1 {
     font-family: 'Outfit', sans-serif;
     font-weight: 700;
-    font-size: calc(1.1875rem + 0.390625vw);
+    font-size: calc(1.25rem + 0.390625vw);
+    padding: 0 7%;
 }
 
 p {
    color:hsl(220, 15%, 55%);
    font-family: 'Outfit', sans-serif;
    font-weight: 400;
-   font-size: calc(1.1875rem + 0.390625vw);
+   font-size: calc(0.9375rem + 0.390625vw);
+   padding: 0 10%;
 }
 
 .qrCode {
@@ -42,10 +44,10 @@ p {
           }
     
     h1 {
-        font-size: 1.4375rem;
+        font-size: 1.25rem;
     }
 
     p  {
-        font-size: 1rem;
+        font-size: 0.9375rem;
     }
     }
